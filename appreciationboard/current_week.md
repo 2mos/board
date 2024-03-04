@@ -31,7 +31,7 @@ Members who've completed 50+ hours this week 🥳 Cheers to those for putting in
 9. dezoms
 # Honorable mentions ⚡
 Really proud of y'all for learning from last week and getting your warnings cancelled 🥳
-> No one this week😐
+(No one this week😐)
 
 Congrats to all the winners, continue crushing those goals!! 😸
 
