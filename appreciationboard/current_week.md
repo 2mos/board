@@ -21,9 +21,6 @@ Consistent members that are eventually going to make it to Wizards.
 1. RRJ
 2. KAYDEN
 
-%% # Honorable mentions ⚡
-Hard workers that learned from the previous week's mistakes 
-aryansh25 %%
 
 Congrats to all the winners, continue crushing those goals!! 😸
 
