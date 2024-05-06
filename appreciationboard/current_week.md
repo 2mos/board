@@ -39,7 +39,7 @@ Congrats to all the winners, continue crushing those goals!! 😸
 
 ```
 Additional Notes: this week
-1. 6 members have been removed
+1. 8 members have been removed
 2. 10 warning tickets handed out
 ```
 
