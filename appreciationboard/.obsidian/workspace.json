@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11-02-24.md",
+                "file": "archive/11-02-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "19-02-24.md",
+                "file": "archive/19-02-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26-02-24.md",
+                "file": "archive/26-02-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-03-24.md",
+                "file": "archive/04-03-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11-03-24.md",
+                "file": "archive/11-03-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18-03-24.md",
+                "file": "archive/18-03-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25-03-24.md",
+                "file": "archive/25-03-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-04-24.md",
+                "file": "archive/03-04-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25-03-24.md",
+                "file": "archive/25-03-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "29-04-24.md",
+                "file": "archive/29-04-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-05-24.md",
+                "file": "archive/06-05-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13-05-24.md",
+                "file": "archive/13-05-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,6 +157,54 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "archive/20-05-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1f7bd306401e101",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "archive/03-04-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9443c711706d870",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "archive/20-05-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eff8acbcc1da15f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "current_week.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5699b6417eb29df6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "current_week.md",
                 "mode": "source",
                 "source": false
@@ -164,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -291,21 +339,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "258de9c428618fa8",
+  "active": "5699b6417eb29df6",
   "lastOpenFiles": [
-    "29-04-24.md",
-    "06-05-24.md",
+    "archive/20-05-24.md",
     "current_week.md",
-    "13-05-24.md",
-    "25-03-24.md",
-    "22-04-24.md",
-    "03-04-24.md",
-    "18-03-24.md",
-    "11-03-24.md",
-    "04-03-24.md",
-    "26-02-24.md",
+    "archive/04-03-24.md",
+    "archive/03-04-24.md",
+    "archive",
+    "archive/29-04-24.md",
+    "archive/06-05-24.md",
+    "archive/13-05-24.md",
+    "archive/25-03-24.md",
+    "archive/22-04-24.md",
+    "archive/18-03-24.md",
+    "archive/11-03-24.md",
+    "archive/26-02-24.md",
     "Untitled 1.md",
-    "19-02-24.md",
-    "11-02-24.md"
+    "archive/19-02-24.md",
+    "archive/11-02-24.md"
   ]
 }
