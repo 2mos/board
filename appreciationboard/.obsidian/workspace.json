@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "29-07-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da7738dea1d64339",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "current_week.md",
                 "mode": "source",
                 "source": false
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8586ec1a04767580",
+  "active": "da7738dea1d64339",
   "lastOpenFiles": [
-    "22-07-24.md",
+    "29-07-24.md",
     "current_week.md",
+    "22-07-24.md",
     "08-07-24.md",
     "15-07-24.md",
     "25-06-24.md",
