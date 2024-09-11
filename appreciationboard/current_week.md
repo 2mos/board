@@ -24,17 +24,17 @@ Members occupying the top of the group's studying page daily.
 10. Rishabh
 11. PRATIK
 12. faixan
-12. rudra f
+13. rudra f
 
 # Champs 🐐(50 h+)
 Consistent members that are eventually going to make it to Wizards. 
-2. darkrai
-3. Harsh Nishad
-4. Devanshu_Till_Dawn
-5. Ganesh
-6. Naurto 007
-7. Anjani
-8. Rahul Insights
+1. darkrai
+2. Harsh Nishad
+3. Devanshu_Till_Dawn
+4. Ganesh
+5. Naurto 007
+6. Anjani
+7. Rahul Insights
 
 # Honorable mentions ⚡
 Hard workers that learned from the previous week's mistakes 
