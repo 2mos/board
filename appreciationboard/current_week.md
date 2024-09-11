@@ -23,11 +23,11 @@ Members occupying the top of the group's studying page daily.
 9. sslm
 10. Rishabh
 11. PRATIK
+12. faixan
 12. rudra f
 
 # Champs 🐐(50 h+)
 Consistent members that are eventually going to make it to Wizards. 
-1. faixan123
 2. darkrai
 3. Harsh Nishad
 4. Devanshu_Till_Dawn
