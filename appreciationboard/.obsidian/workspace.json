@@ -85,6 +85,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "19-09-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c9d045af51dc06c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "current_week.md",
                 "mode": "source",
                 "source": false
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -219,10 +231,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "583f43528dfd99ea",
+  "active": "6c9d045af51dc06c",
   "lastOpenFiles": [
-    "10-09-24.md",
+    "19-09-24.md",
     "current_week.md",
+    "10-09-24.md",
     "02-09-24.md",
     "26-08-24.md",
     "05-08-24.md",
