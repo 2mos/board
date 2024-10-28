@@ -16,7 +16,9 @@
                 "file": "22-07-24.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "22-07-24"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "29-07-24.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "29-07-24"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "05-08-24.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "05-08-24"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "26-08-24.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "26-08-24"
             }
           },
           {
@@ -64,7 +72,9 @@
                 "file": "02-09-24.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "02-09-24"
             }
           },
           {
@@ -76,7 +86,9 @@
                 "file": "10-09-24.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "10-09-24"
             }
           },
           {
@@ -88,7 +100,9 @@
                 "file": "19-09-24.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "19-09-24"
             }
           },
           {
@@ -100,7 +114,9 @@
                 "file": "23-09-24.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "23-09-24"
             }
           },
           {
@@ -112,7 +128,9 @@
                 "file": "30-09-24.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "30-09-24"
             }
           },
           {
@@ -124,7 +142,9 @@
                 "file": "07-10-24.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "07-10-24"
             }
           },
           {
@@ -136,7 +156,9 @@
                 "file": "14-10-24.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "14-10-24"
             }
           },
           {
@@ -145,14 +167,44 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "21-10-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "21-10-24"
+            }
+          },
+          {
+            "id": "82231bf847cc5358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "21-10-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "21-10-24"
+            }
+          },
+          {
+            "id": "4f4ea44f51481cd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "current_week.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "current_week"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -172,7 +224,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -187,7 +241,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -195,7 +251,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -226,7 +284,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for current_week"
             }
           },
           {
@@ -238,7 +298,9 @@
                 "file": "current_week.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from current_week"
             }
           },
           {
@@ -249,7 +311,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -259,7 +323,9 @@
               "type": "outline",
               "state": {
                 "file": "current_week.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of current_week"
             }
           }
         ]
@@ -279,10 +345,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2cadafa6bc7be979",
+  "active": "4f4ea44f51481cd4",
   "lastOpenFiles": [
-    "14-10-24.md",
+    "21-10-24.md",
     "current_week.md",
+    "14-10-24.md",
     "07-10-24.md",
     "30-09-24.md",
     "23-09-24.md",
@@ -306,7 +373,6 @@
     "archive/25-03-24.md",
     "archive/22-04-24.md",
     "archive/18-03-24.md",
-    "archive/11-03-24.md",
-    "archive/26-02-24.md"
+    "archive/11-03-24.md"
   ]
 }
