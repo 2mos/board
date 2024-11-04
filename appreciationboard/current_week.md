@@ -17,6 +17,7 @@ Members occupying the top of the group's studying page daily.
 3. Rishabh
 4. Kristi 
 5. Aditi_57
+6. faixan123
  
 # Champs 🐐(50 h+)
 Consistent members that are eventually going to make it to Wizards. 
@@ -25,7 +26,6 @@ Consistent members that are eventually going to make it to Wizards.
 3. Be MAN
 4. Isolated
 5. rudra f 
-6. faixan123
 7. kd
 8. PriyanshuPD
 
