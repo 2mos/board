@@ -209,6 +209,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "04-11-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04-11-24"
+            }
+          },
+          {
+            "id": "9951ed4b4d838ae2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "current_week.md",
                 "mode": "source",
                 "source": false
@@ -218,7 +232,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -359,10 +373,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdf55b4011e6f011",
+  "active": "9951ed4b4d838ae2",
   "lastOpenFiles": [
-    "28-10-24.md",
+    "04-11-24.md",
     "current_week.md",
+    "28-10-24.md",
     "21-10-24.md",
     "14-10-24.md",
     "07-10-24.md",
@@ -386,7 +401,6 @@
     "archive/06-05-24.md",
     "archive/13-05-24.md",
     "archive/25-03-24.md",
-    "archive/22-04-24.md",
-    "archive/18-03-24.md"
+    "archive/22-04-24.md"
   ]
 }
