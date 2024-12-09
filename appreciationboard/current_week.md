@@ -34,9 +34,10 @@ Consistent members that are eventually going to make it to Wizards.
 9. Richa Shrivastava 
 10. Be MAN
 11. SaRaSWaTa
-12. sillyshimmer
-13. Flame
-14. The SUTURE SCULPTURE 
+12. FaiXan
+13. sillyshimmer
+14. Flame
+15. The SUTURE SCULPTURE 
 
 
 # Honorable mentions ⚡
